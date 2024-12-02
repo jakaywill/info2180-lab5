@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const phpfile = 'http://localhost/info2180-lab5/world.php';
-    const srchBttn = document.getElementById('search');
+    const srchBttn = document.getElementById('lookup');
     const ctysrchBttn = document.getElementById('citysearch');
     const srchBar = document.getElementById('country');
     const result = document.getElementById('result');
